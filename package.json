@@ -20,7 +20,7 @@
   "author": "Artur Arseniev",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "juice": "^4.1.1"
+    "juice": "^8.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
